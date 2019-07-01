@@ -23,3 +23,14 @@ class LinkList extends Component {
 }
 
 export default LinkList
+
+// {
+//   feed {
+//     links {
+//       id
+//       createdAt
+//       description
+//       url
+//     }
+//   }
+// }
