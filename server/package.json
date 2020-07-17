@@ -10,7 +10,7 @@
     "bcryptjs": "^2.4.3",
     "graphql-yoga": "^1.18.0",
     "jsonwebtoken": "^8.2.0",
-    "lodash": "^4.17.14",
+    "lodash": "^4.17.19",
     "prisma-client-lib": "^1.31.0"
   },
   "devDependencies": {
